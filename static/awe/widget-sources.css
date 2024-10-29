@@ -1,0 +1,10 @@
+#awe-widget-sources { 
+	width:250px;
+	height:250px;
+	margin-left:0;
+	padding-left:0;
+}
+.highcharts-container { 
+	float:left;
+	display:block;
+}

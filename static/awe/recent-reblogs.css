@@ -1,0 +1,31 @@
+.widget-generator-awe { 
+	margin-top:10px;
+	background-image:url('awe_icon_16.png');
+	background-repeat:no-repeat;
+	padding-left:20px;
+	height:16px;
+}
+
+.widget-generator-awe a {
+	text-decoration:none;
+	color:#777;
+}
+
+#recent-reblogs .widget-title { float:left; }
+
+.widget-awe-follow { 
+	float:right;
+	margin-top:4px;
+	background-image:url('feed-icon-14x14.png');
+	background-repeat:no-repeat;
+	padding-left:20px;
+}
+.widget_recent_reblogs li {
+	margin-bottom:15px;
+	list-style:none;
+}
+.widget_recent_reblogs ul {
+	padding-top:20px;
+	clear:both;
+	margin-bottom:10px;
+}

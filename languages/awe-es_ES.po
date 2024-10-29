@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AWE\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-19 10:48-0800\n"
+"PO-Revision-Date: 2011-06-19 11:04-0800\n"
+"Last-Translator: Braydon Fuller <courier@braydon.com>\n"
+"Language-Team: AWE <courier@braydon.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /var/www/structure/wp-content/plugins/awe/\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: options-awe-routing.php:6
+#: class-awe.php:110
+#: class-awe.php:173
+msgid "URL Routing"
+msgstr "URL Despachador"
+
+#: options-awe-routing.php:31
+msgid "Save Changes"
+msgstr "Guardar Los Cambios"
+
+#: options-awe-routingrule.php:9
+#: class-awe.php:505
+msgid "Add Rule"
+msgstr "Añadir Regla"
+
+#: options-awe-routingrule.php:9
+#: class-awe.php:506
+msgid "Delete Rule"
+msgstr "Eliminar La Regla"
+
+#: options-awe-routingrule.php:17
+#: class-awe.php:507
+msgid "Title:"
+msgstr "Título:"
+
+#: options-awe-routingrule.php:18
+#: class-awe.php:508
+msgid "The title for this view of posts."
+msgstr "El título de este punto de vista de los mensajes."
+
+#: options-awe-routingrule.php:22
+#: class-awe.php:509
+msgid "Examples"
+msgstr "Ejemplos"
+
+#: options-awe-routingrule.php:30
+#: class-awe.php:510
+msgid "URL Path:"
+msgstr "URL Camino:"
+
+#: options-awe-routingrule.php:31
+#: class-awe.php:511
+msgid "Location of your posts view by URL."
+msgstr "Ubicación de su punto de vista de los mensajes URL."
+
+#: options-awe-routingrule.php:35
+#: class-awe.php:512
+msgid "Example"
+msgstr "Ejemplo"
+
+#: options-awe-routingrule.php:37
+#: class-awe.php:513
+msgid "Available Variables"
+msgstr "Las variables disponibles"
+
+#: options-awe-routingrule.php:43
+#: class-awe.php:514
+msgid "Request Posts:"
+msgstr "Mensajes Solicitud:"
+
+#: options-awe-routingrule.php:44
+#: class-awe.php:515
+msgid "Retrieve posts from the database by using query variables and associated values matched from the path."
+msgstr "Recuperar los mensajes de la base de datos mediante el uso de variables de consulta y los valores asociados coincidentes de la ruta."
+
+#: options-awe-routingrule.php:52
+#: class-awe.php:516
+msgid "Template:"
+msgstr "Plantilla:"
+
+#: options-awe-routingrule.php:53
+#: class-awe.php:517
+msgid "Format your posts by routing to a template."
+msgstr "Formato a tus mensajes de enrutamiento en una plantilla."
+
+#: options-awe-templates.php:9
+#: class-awe.php:109
+#: class-awe.php:173
+msgid "Templates"
+msgstr "Plantillas"
+
+#: options-awe-templates.php:18
+#: options-awe-templates.php:39
+msgid "Select Template"
+msgstr "Seleccionar la Plantilla"
+
+#: options-awe-templates.php:21
+#: options-awe-templates.php:42
+msgid "Save Template"
+msgstr "Guarda La Plantilla"
+
+#: options-awe-templates.php:22
+#: options-awe-templates.php:43
+msgid "New"
+msgstr "Nuevo"
+
+#: options-awe-templates.php:22
+#: options-awe-templates.php:43
+msgid "Delete"
+msgstr "Borrar"
+
+#: class-awe.php:108
+#: class-awe.php:173
+msgid "Manual"
+msgstr "Manual"
+
+#: class-awe.php:122
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: class-awe.php:279
+msgid "Security check fail."
+msgstr "Comprobación de seguridad fallan."
+
+#: class-awe.php:288
+msgid "You don't have permission to edit url rules"
+msgstr "Usted no tiene permiso para modificar las reglas url"
+
+#: class-awe.php:314
+msgid "Settings Saved at: "
+msgstr "Los ajustes guardados en:"
+
+#: class-awe.php:340
+msgid "New Template saved at: "
+msgstr "Nueva plantilla guardada en:"
+
+#: class-awe.php:348
+msgid "File name contains invalid characters."
+msgstr "Nombre del archivo contiene caracteres no válidos."
+
+#: class-awe.php:389
+msgid "Template deleted at: "
+msgstr "Plantilla de borrado en:"
+
+#: class-awe.php:399
+msgid "Failed to deleted template at: "
+msgstr "No se pudo eliminar en la plantilla:"
+
+#: class-awe.php:420
+msgid "Template saved at: "
+msgstr "Plantilla guardada en:"
+
+#: class-awe.php:429
+msgid "Failed to save template at: "
+msgstr "Error al guardar la plantilla en:"
+
+#: class-awe.php:451
+msgid "Read template at: "
+msgstr "Lea plantilla en:"
+
+#: class-awe.php:461
+msgid "Failed to read template at: "
+msgstr "No se pudo leer en la plantilla:"
+
+#: class-awe.php:495
+msgid "New Rule"
+msgstr "Nueva Regla"
+
